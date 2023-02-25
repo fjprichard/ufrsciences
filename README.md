@@ -6,10 +6,13 @@ Ce programme s'adresse aux directeurs des départements de l'UFR sciences d'AMU.
 # Mode d'emploi.
  
  - Recueil des données dans GDEP:
+ 
         - aller dans l'onglet synthese
         - cliquer sur exporter,
         - sauvergarder le fichier au format xlsx (fichier "nom_fichier.xlsx")
+ 
  - Dans python,
+ 
         - si nécessaire, installer la librairie pandas,
         - editer analyse.py,
         - renseigner l'adresse physique du fichier en le mettant dans 
